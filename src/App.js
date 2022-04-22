@@ -1,5 +1,3 @@
-import {NavBar} from './components/NavBar';
-
 import './App.css';
 
 function App() {
@@ -13,7 +11,8 @@ function App() {
           <li>Task 3</li>
         </ul>
       </header>
-     
+
+      <button>Click Me</button>
     </div>
   );
 }
